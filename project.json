@@ -1,6 +1,6 @@
 {
   "id": "com.examples.apps.myapp",
-  "name": "asdasd",
+  "name": "qweqwewe",
   "version": "0.0.1",
   "title": "Example: My Application",
   "description": "Description of My Application",
@@ -101,5 +101,9 @@
   },
   "preview": {
     "top_file": "/debug.html"
+  },
+  "github": {
+    "repo": "arestest1",
+    "ref": "heads/master"
   }
 }
