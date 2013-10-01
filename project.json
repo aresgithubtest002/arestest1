@@ -104,6 +104,6 @@
   },
   "github": {
     "repo": "arestest1",
-    "ref": "heads/master"
+    "ref": "heads/test"
   }
 }
