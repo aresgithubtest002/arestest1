@@ -1,6 +1,6 @@
 {
   "id": "com.examples.apps.myapp",
-  "name": "github seungshins",
+  "name": "github at2",
   "version": "0.0.1",
   "title": "Example: My Application",
   "description": "Description of My Application",
@@ -106,6 +106,6 @@
     "repo": "arestest1",
     "user": "aresgithubtest002",
     "ref": "heads/arestest",
-    "commitSha": "1ff1bed725c0761e535f9b2f7f35a08fe02c2285"
+    "commitSha": "cc965497df42fb08988f6af58c2018081ebf1537"
   }
 }
