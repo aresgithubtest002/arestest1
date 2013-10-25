@@ -1,6 +1,6 @@
 {
   "id": "com.examples.apps.myapp",
-  "name": "gitpull",
+  "name": "github1",
   "version": "0.0.1",
   "title": "Example: My Application",
   "description": "Description of My Application",
@@ -104,6 +104,8 @@
   },
   "github": {
     "repo": "arestest1",
-    "ref": "heads/master"
+    "user": "aresgithubtest002",
+    "ref": "heads/master",
+    "commitSha": "9d931484232c534daace7188795bd9c6abeae126"
   }
 }
